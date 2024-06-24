@@ -5,8 +5,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/boombuler/barcode"
-	"github.com/boombuler/barcode/utils"
+	"github.com/photostorm/barcode"
+	"github.com/photostorm/barcode/utils"
 )
 
 const patternWidth = 5

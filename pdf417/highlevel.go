@@ -4,7 +4,7 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/boombuler/barcode/utils"
+	"github.com/photostorm/barcode/utils"
 )
 
 type encodingMode byte

@@ -3,7 +3,7 @@ package aztec
 import (
 	"fmt"
 
-	"github.com/boombuler/barcode/utils"
+	"github.com/photostorm/barcode/utils"
 )
 
 type token interface {

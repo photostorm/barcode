@@ -4,8 +4,8 @@ package ean
 import (
 	"errors"
 
-	"github.com/boombuler/barcode"
-	"github.com/boombuler/barcode/utils"
+	"github.com/photostorm/barcode"
+	"github.com/photostorm/barcode/utils"
 )
 
 type encodedNumber struct {

@@ -3,7 +3,7 @@ package qr
 import (
 	"fmt"
 
-	"github.com/boombuler/barcode/utils"
+	"github.com/photostorm/barcode/utils"
 )
 
 func encodeAuto(content string, ecl ErrorCorrectionLevel) (*utils.BitList, *versionInfo, error) {
